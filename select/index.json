@@ -1,16 +1,24 @@
 {
   "version": 1,
-  "base_track": "さめざめ - きみが死ぬとき思い出す女の子になりたい",
-  "base_artist": "さめざめ",
-  "createdAt": "2026-02-06T09:55:17.660622Z",
+  "base_track": "ルート225",
+  "base_artist": "cephalo",
+  "createdAt": "2026-02-06T09:56:38.480487Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルート225",
+      "artist": "cephalo",
+      "has_synced": true,
+      "path": "select/01_ルート225_cephalo.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "きみが死ぬとき思い出す女の子になりたい",
-      "artist": "さめざめ",
+      "title": "ルート225",
+      "artist": "cephalo",
       "has_synced": false,
-      "path": "select/pl_01_きみが死ぬとき思い出す女の子になりたい_さめざめ.txt"
+      "path": "select/pl_01_ルート225_cephalo.txt"
     }
   ]
 }
